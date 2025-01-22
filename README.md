@@ -50,8 +50,3 @@ Cambia entre ramas.
 Crea una nueva rama. 
 ![git checkout -b](images/gitcheckout-b.png)
 
-## Instalación de java
-![java](images/java.png)
-
-
-
